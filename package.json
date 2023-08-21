@@ -1,0 +1,30 @@
+{
+    "name": "picgo-plugin-luke9012-uploader",
+    "version": "1.0.0",
+    "description": "luke9012 drawing bed (based on Cloudrave)",
+    "main": "src/index.js",
+    "publishConfig": {
+      "access": "public"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "patch": "npm version patch && git push origin master && git push origin --tags",
+      "minor": "npm version minor && git push origin master && git push origin --tags",
+      "major": "npm version major && git push origin master && git push origin --tags"
+    },
+    "keywords": [
+      "picgo",
+      "picgo-gui-plugin",
+      "picgo-plugin",
+      "picgo-luke9012",
+      "picgo-cloudreve"
+    ],
+    "author": "luke",
+    "license": "MIT",
+    "devDependencies": {},
+    "homepage": "https://github.com/luke1879012/picgo-plugin-luke9012-uploader",
+    "bugs": {
+      "url": "https://github.com/luke1879012/picgo-plugin-luke9012-uploader/issues"
+    }
+  }
+  

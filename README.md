@@ -7,6 +7,6 @@
 - path: 网盘内的存储路径
 
 
-代码基于: https://github.com/jiajiajia343434/picgo-plugin-nextcloud-uploader
-网盘基于: https://github.com/cloudreve/Cloudreve
-后端基于: flask(暂时无法开放, 后期舍弃)
+- 代码基于: https://github.com/jiajiajia343434/picgo-plugin-nextcloud-uploader
+- 网盘基于: https://github.com/cloudreve/Cloudreve
+- 后端基于: flask(暂时无法开放, 后期舍弃)
